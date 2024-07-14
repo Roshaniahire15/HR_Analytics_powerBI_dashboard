@@ -24,9 +24,9 @@ Power BI Dashboard
 
 **Key Performance Indicators:**
 
-Total Employees: 1,413
-Attrition Count: 239
-Attrition Rate: 16.1%
-Average Employee Age: 37 years
-Average Salary: $6.5k
-Average Tenure: 7 years
+1. Total Employees: 1,413
+2. Attrition Count: 239
+3.  Attrition Rate: 16.1%
+4. Average Employee Age: 37 years
+5. Average Salary: $6.5k
+6. Average Tenure: 7 years
